@@ -1,18 +1,23 @@
-# Getting Started with Create React App #
+# Getting Started with Create React App 
 
-git clone https://github.com/jeetvani/ReactJS-with-Electron #
+git clone https://github.com/jeetvani/ReactJS-with-Electron 
 
-cd ReactJS-with-Electron #
+cd ReactJS-with-Electron 
 
-npm i -g yarn #
+npm i -g yarn 
 
-yarn  #
+yarn  
 
-npm start #
+npm start 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Libraries Used -
+#ReactJs
+#concurrently
+#ElectronJs
+#cross-env
+#wait-on
 ## Available Scripts
 
 In the project directory, you can run:
