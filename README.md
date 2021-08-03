@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+git clone https://github.com/jeetvani/ReactJS-with-Electron
+cd ReactJS-with-Electron
+npm i -g yarm
+yarn 
+npm start
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
