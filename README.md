@@ -6,6 +6,8 @@ cd ReactJS-with-Electron
 
 npm i -g yarn 
 
+npm install
+
 yarn  
 
 npm start 
